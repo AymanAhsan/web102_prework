@@ -24,7 +24,7 @@ An Add game feature
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/OlJkLz6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/OlJkLz6
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
